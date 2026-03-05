@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1e/a9/7b/1ea97ba61324de0951746c5b1b0a70b7.gif" width="100%" alt="LucidVibes Purple Anime Banner" />
+  <img
+    src="https://ghrmt.vercel.app/api?text=L7NEG&gradient=purple&speed=4"
+    alt="LUCID" />
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1e/a9/7b/1ea97ba61324de0951746c5b1b0a70b7.gif"
+       width="100%"
+       alt="LucidVibes Purple Anime Banner" />
 </p>
 
 # 🌌 $${\color{#9d50bb}Hello, \space I'm \space Stephen \space | \space OnlyLucidVibes}$$
@@ -25,7 +33,7 @@
 ## 🛠️ $${\color{#9d50bb}Tech \space Stack \space and \space Skills}$$
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,js,html,css,github,vscode,discord,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=lua,python,vscode&theme=dark" />
 </p>
 
 > **Specializing in:** FiveM (ESX/QBCore), RedM, Anti-Cheat Engine Design, and Zero-Trust Architecture.
