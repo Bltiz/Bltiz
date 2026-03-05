@@ -1,8 +1,4 @@
-<p align="center">
-  <img
-    src="https://ghrmt.vercel.app/api?text=L7NEG&gradient=purple&speed=4"
-    alt="LUCID" />
-</p>
+[![Typing SVG](https://ghrmt.vercel.app?font=Fira+Code&pause=1000&width=435&lines=OnlyLucidVibes)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/1e/a9/7b/1ea97ba61324de0951746c5b1b0a70b7.gif"
