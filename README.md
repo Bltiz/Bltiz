@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=lua,python,vscode&theme=dark" />
 </p>
 
-> **Specializing in:** FiveM (ESX/QBCore), RedM, Anti-Cheat Engine Design, and Zero-Trust Architecture.
+> **Specializing in:** FiveM (ESX/QBCore),Anti-Cheat Engine Design, and Zero-Trust Architecture.
 
 ---
 
