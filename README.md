@@ -20,8 +20,8 @@
 ---
 
 ## 📺 $${\color{#9d50bb}Content \space and \space Community}$$
-* 🎮 **Twitch:** Catch me live streaming dev sessions and gameplay!
-* 🎥 **YouTube:** Check out my tutorials and project showcases.
+* 🎮 **Twitch:** Catch me at [twitch.tv/onlylucidvibes_](https://www.twitch.tv/onlylucidvibes_) for dev sessions and gameplay!
+* 🎥 **YouTube:** Check out [youtube.com/@1AndLucid](https://www.youtube.com/@1AndLucid_) for tutorials and showcases.
 * 🛡️ **Support:** Find me on Discord at `onlylucidvibes` for project support and vibes.
 
 ---
@@ -32,14 +32,14 @@
   <img src="https://skillicons.dev/icons?i=lua,python,vscode&theme=dark" />
 </p>
 
-> **Specializing in:** FiveM (ESX/QBCore),Anti-Cheat Engine Design, and Zero-Trust Architecture.
+> **Specializing in:** FiveM (ESX/QBCore), Anti-Cheat Engine Design, and Zero-Trust Architecture.
 
 ---
 
 ## 📫 $${\color{#9d50bb}Connect \space With \space Me}$$
 <p align="left">
-  <a href="https://twitch.tv/onlylucidvibes"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-  <a href="https://youtube.com/@onlylucidvibes"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.twitch.tv/onlylucidvibes_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@1AndLucid_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
