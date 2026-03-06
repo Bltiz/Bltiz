@@ -20,9 +20,9 @@
 ---
 
 ## 📺 $${\color{#9d50bb}Content \space and \space Community}$$
-* 🎮 **Twitch:** Catch me at [twitch.tv/onlylucidvibes_](https://www.twitch.tv/onlylucidvibes_) for dev sessions and gameplay!
-* 🎥 **YouTube:** Check out [youtube.com/@1AndLucid](https://www.youtube.com/@1AndLucid_) for tutorials and showcases.
-* 🛡️ **Support:** Find me on Discord at `onlylucidvibes` for project support and vibes.
+* 🎮 **Twitch:** Catch me live at [twitch.tv/onlylucidvibes_](https://www.twitch.tv/onlylucidvibes_)
+* 🎥 **YouTube:** Check out my tutorials at [youtube.com/@1AndLucid_](https://www.youtube.com/@1AndLucid_)
+* 🛡️ **Community:** Join the [LucidVibes Discord](https://discord.gg/b8fgYpxR9T) for project support and vibes.
 
 ---
 
@@ -40,6 +40,7 @@
 <p align="left">
   <a href="https://www.twitch.tv/onlylucidvibes_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
   <a href="https://www.youtube.com/@1AndLucid_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://discord.gg/b8fgYpxR9T"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
